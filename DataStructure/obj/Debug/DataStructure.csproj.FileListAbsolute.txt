@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/bin/Debug/DataStructure.exe
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/bin/Debug/DataStructure.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/obj/Debug/DataStructure.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/obj/Debug/DataStructure.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/obj/Debug/DataStructure.exe
+/Users/gyeongmin/RiderProjects/DataStructure/DataStructure/obj/Debug/DataStructure.pdb

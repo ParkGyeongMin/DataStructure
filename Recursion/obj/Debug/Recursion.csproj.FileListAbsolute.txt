@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/bin/Debug/Recursion.exe
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/bin/Debug/Recursion.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/obj/Debug/Recursion.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/obj/Debug/Recursion.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/obj/Debug/Recursion.exe
+/Users/gyeongmin/RiderProjects/DataStructure/Recursion/obj/Debug/Recursion.pdb
