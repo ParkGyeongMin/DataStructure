@@ -1,6 +1,0 @@
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/bin/Debug/Rev.exe
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/bin/Debug/Rev.pdb
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/obj/Debug/Rev.csprojAssemblyReference.cache
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/obj/Debug/Rev.csproj.CoreCompileInputs.cache
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/obj/Debug/Rev.exe
-/Users/gyeongmin/RiderProjects/DataStructure/Rev/obj/Debug/Rev.pdb
