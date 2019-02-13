@@ -19,6 +19,8 @@ namespace Recursion
             Console.WriteLine("1~num 까지의 곱" + multiplication(num));
             Console.WriteLine("Class 1~num 까지의 합" + Rev.sum(num));
             Console.WriteLine("Class 1~num 까지의 곱" + Rev.multiplication(num));
+            
+            Rev.HanoiTowerMove(3,'A','B','C');
 
         }
         
@@ -43,7 +45,7 @@ namespace Recursion
             else 
                 return num + Sum(num - 1);
             
-        }
+        } // 밑에와 똑같은 동작
 
         static int multiplication(int num)
         {
@@ -53,7 +55,7 @@ namespace Recursion
                 return 1;
             else
                 return num * multiplication(num - 1);
-        }
+        } // 밑에와 똑같은 동작
 
         // 위에꺼와 똑같은 동작을 한다. 재귀 동작을 클래스로 묶어서 사용 한다.
         class Rev
@@ -96,6 +98,20 @@ namespace Recursion
                 else
                 {
                     return num * multiplication(num - 1);
+                }
+            }
+
+            public static void HanoiTowerMove(int num, char from, char by, char to) // 하노이 타워 
+            {
+                if (num == 1)
+                {
+                    Console.WriteLine("원반1을" + from + "에서" +to +"로 이동");
+                }
+                else
+                {
+                    HanoiTowerMove(num -1,from,to,by); //3단계중 1단계 
+                    Console.WriteLine("원반"+num +"을(를)"+from+"에서"+to+"로 이동");// 3단계중 2단계
+                    HanoiTowerMove(num-1,by,from,to); //3단계중 3단계
                 }
             }
         }
