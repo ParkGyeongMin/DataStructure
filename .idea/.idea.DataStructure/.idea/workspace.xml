@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4f7d9d-2106-4fee-83ab-aa45ec0128a8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,17 +62,17 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="343">
+              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
               <folding>
-                <marker date="1551278408056" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
-                <marker date="1551278408056" expanded="true" signature="88:808" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="117:806" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="170:800" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="302:688" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="434:674" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="493:656" ph="{...}" />
-                <marker date="1551278408056" expanded="true" signature="724:790" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
+                <marker date="1551278449043" expanded="true" signature="88:764" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="117:762" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="170:756" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="302:644" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
+                <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -229,12 +227,12 @@
       <workItem from="1549957326964" duration="3951000" />
       <workItem from="1550021722773" duration="1822000" />
       <workItem from="1550302852078" duration="1592000" />
-      <workItem from="1551277687526" duration="718000" />
+      <workItem from="1551277687526" duration="824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9178000" />
+    <option name="totallyTimeSpent" value="9284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -254,9 +252,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.73103446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.73103446" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28551725" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28551725" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -579,17 +577,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="343">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
           <folding>
-            <marker date="1551278408056" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
-            <marker date="1551278408056" expanded="true" signature="88:808" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="117:806" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="170:800" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="302:688" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="434:674" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="493:656" ph="{...}" />
-            <marker date="1551278408056" expanded="true" signature="724:790" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
+            <marker date="1551278449043" expanded="true" signature="88:764" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="117:762" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="170:756" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="302:644" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
           </folding>
         </state>
       </provider>
