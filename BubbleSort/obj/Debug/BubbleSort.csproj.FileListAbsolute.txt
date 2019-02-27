@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/bin/Debug/BubbleSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/bin/Debug/BubbleSort.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/obj/Debug/BubbleSort.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/obj/Debug/BubbleSort.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/obj/Debug/BubbleSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/BubbleSort/obj/Debug/BubbleSort.pdb
