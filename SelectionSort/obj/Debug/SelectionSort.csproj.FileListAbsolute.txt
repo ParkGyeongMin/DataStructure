@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/bin/Debug/SelectionSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/bin/Debug/SelectionSort.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/obj/Debug/SelectionSort.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/obj/Debug/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/obj/Debug/SelectionSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/SelectionSort/obj/Debug/SelectionSort.pdb

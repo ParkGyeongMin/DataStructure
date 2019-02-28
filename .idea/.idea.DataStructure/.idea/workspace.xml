@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4f7d9d-2106-4fee-83ab-aa45ec0128a8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/obj/Debug/BubbleSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/obj/Debug/BubbleSort.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +31,7 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Recursion/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-924">
+            <state relative-caret-position="360">
               <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding>
                 <marker date="1550022623819" expanded="false" signature="12:66" ph="..." />
@@ -59,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+            <state relative-caret-position="-11">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
                 <marker date="1551278449043" expanded="true" signature="88:764" ph="{...}" />
@@ -78,12 +80,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SelectionSort/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding>
+                <marker date="1551353667986" expanded="true" signature="6:51" ph="..." />
+                <marker date="1551353667986" expanded="true" signature="76:796" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="105:794" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="158:788" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="309:674" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="405:561" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="466:543" ph="{...}" />
+                <marker date="1551353667986" expanded="true" signature="710:776" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SelectionSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataStructure/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Recursion/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataStructure/Rev.cs" root0="SKIP_HIGHLIGHTING" />
@@ -101,6 +123,7 @@
         <option value="$PROJECT_DIR$/Recursion/Program.cs" />
         <option value="$PROJECT_DIR$/LinkedList/Program.cs" />
         <option value="$PROJECT_DIR$/BubbleSort/Program.cs" />
+        <option value="$PROJECT_DIR$/SelectionSort/Program.cs" />
       </list>
     </option>
   </component>
@@ -124,12 +147,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DataStructure (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataStructure (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DataStructure (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BubbleSort" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -137,7 +166,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,13 +200,13 @@
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
     </configuration>
     <configuration name="Recursion" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Recursion/bin/Debug/Recursion.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BubbleSort/bin/Debug/BubbleSort.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BubbleSort/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BubbleSort/BubbleSort.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SelectionSort/SelectionSort.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -228,11 +256,12 @@
       <workItem from="1550021722773" duration="1822000" />
       <workItem from="1550302852078" duration="1592000" />
       <workItem from="1551277687526" duration="824000" />
+      <workItem from="1551353153223" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9284000" />
+    <option name="totallyTimeSpent" value="9797000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,11 +281,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.73103446" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21517241" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28551725" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.28551725" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
       <window_info anchor="right" id="Database" order="3" />
@@ -276,12 +305,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Unit Tests" order="3" />
       <window_info anchor="bottom" id="Find" order="9" />
@@ -290,7 +319,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="right" id="Database" order="1" />
@@ -310,6 +339,65 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataStructure/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1549958714110" expanded="true" signature="67:159" ph="{...}" />
+            <marker date="1549958714110" expanded="true" signature="120:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1550022623819" expanded="false" signature="12:66" ph="..." />
+            <marker date="1550022623819" expanded="true" signature="87:3119" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="116:3117" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="169:699" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="756:1042" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="819:872" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1084:1230" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1288:1488" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1489:1554" ph="/* 밑에와 똑같은 동작 ... */" />
+            <marker date="1550022623819" expanded="true" signature="1572:3110" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1633:1855" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1677:1742" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1917:2147" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1962:2028" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2049:2132" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2220:2560" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2264:2330" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2365:2431" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2452:2546" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2656:3100" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2700:2809" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2830:3086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
+            <marker date="1551278449043" expanded="true" signature="88:764" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="117:762" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="170:756" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="302:644" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -546,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recursion/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
+        <state relative-caret-position="360">
           <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding>
             <marker date="1550022623819" expanded="false" signature="12:66" ph="..." />
@@ -577,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        <state relative-caret-position="-11">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
             <marker date="1551278449043" expanded="true" signature="88:764" ph="{...}" />
@@ -588,6 +676,23 @@
             <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
             <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
             <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectionSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <marker date="1551353667986" expanded="true" signature="6:51" ph="..." />
+            <marker date="1551353667986" expanded="true" signature="76:796" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="105:794" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="158:788" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="309:674" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="405:561" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="466:543" ph="{...}" />
+            <marker date="1551353667986" expanded="true" signature="710:776" ph="{...}" />
           </folding>
         </state>
       </provider>
