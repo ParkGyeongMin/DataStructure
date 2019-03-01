@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/bin/Debug/InsertionSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/bin/Debug/InsertionSort.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/obj/Debug/InsertionSort.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/obj/Debug/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/obj/Debug/InsertionSort.exe
+/Users/gyeongmin/RiderProjects/DataStructure/InsertionSort/obj/Debug/InsertionSort.pdb
