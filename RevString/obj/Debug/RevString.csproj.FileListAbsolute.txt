@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/bin/Debug/RevString.exe
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/bin/Debug/RevString.pdb
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/obj/Debug/RevString.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/obj/Debug/RevString.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/obj/Debug/RevString.exe
+/Users/gyeongmin/RiderProjects/DataStructure/RevString/obj/Debug/RevString.pdb

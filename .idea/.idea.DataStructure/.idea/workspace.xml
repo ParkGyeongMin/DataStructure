@@ -5,11 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DataStructure/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/bin/Debug/SelectionSort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/bin/Debug/SelectionSort.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/bin/Debug/SelectionSort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/bin/Debug/SelectionSort.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelectionSort/obj/Debug/SelectionSort.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsertionSort/obj/Debug/InsertionSort.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InsertionSort/obj/Debug/InsertionSort.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,37 +81,37 @@
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SelectionSort/Program.cs">
+        <entry file="file://$PROJECT_DIR$/InsertionSort/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <marker date="1551418818596" expanded="false" signature="6:51" ph="..." />
-                <marker date="1551418818596" expanded="true" signature="76:792" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="105:790" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="158:784" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="305:670" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="401:557" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="462:539" ph="{...}" />
-                <marker date="1551418818596" expanded="true" signature="706:772" ph="{...}" />
+                <marker date="1551419538471" expanded="false" signature="6:32" ph="..." />
+                <marker date="1551419538471" expanded="true" signature="86:671" ph="{...}" />
+                <marker date="1551419538471" expanded="true" signature="139:647" ph="{...}" />
+                <marker date="1551419538471" expanded="true" signature="285:518" ph="{...}" />
+                <marker date="1551419538471" expanded="true" signature="391:468" ph="{...}" />
+                <marker date="1551419538471" expanded="true" signature="554:637" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InsertionSort/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RevString/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="95">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding>
-                <marker date="1551419438075" expanded="true" signature="6:32" ph="..." />
-                <marker date="1551419438075" expanded="true" signature="57:665" ph="{...}" />
-                <marker date="1551419438075" expanded="true" signature="86:663" ph="{...}" />
-                <marker date="1551419438075" expanded="true" signature="139:639" ph="{...}" />
-                <marker date="1551419438075" expanded="true" signature="285:510" ph="{...}" />
-                <marker date="1551419438075" expanded="true" signature="383:460" ph="{...}" />
-                <marker date="1551419438075" expanded="true" signature="546:629" ph="{...}" />
+                <marker date="1551964882311" expanded="false" signature="6:32" ph="..." />
+                <marker date="1551964882311" expanded="true" signature="53:1462" ph="{...}" />
+                <marker date="1551964882311" expanded="true" signature="82:1460" ph="{...}" />
+                <marker date="1551964882311" expanded="true" signature="132:390" ph="{...}" />
+                <marker date="1551964882311" expanded="true" signature="226:380" ph="{...}" />
+                <marker date="1551964882311" expanded="true" signature="446:1454" ph="{...}" />
+                <marker date="1551964882311" expanded="true" signature="610:761" ph="/* ReversetStr(str); ... */" />
+                <marker date="1551964882311" expanded="true" signature="1006:1307" ph="/* for (int i = 0; i &lt; str.Length; i++) ... */" />
+                <marker date="1551964882311" expanded="true" signature="1356:1431" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -128,13 +124,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SelectionSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/InsertionSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataStructure/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Recursion/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DataStructure/Rev.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DataStructure/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BubbleSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Recursion/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InsertionSort/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataStructure/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BubbleSort/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recursion/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataStructure/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RevString/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recursion/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,6 +145,7 @@
         <option value="$PROJECT_DIR$/BubbleSort/Program.cs" />
         <option value="$PROJECT_DIR$/SelectionSort/Program.cs" />
         <option value="$PROJECT_DIR$/InsertionSort/Program.cs" />
+        <option value="$PROJECT_DIR$/RevString/Program.cs" />
       </list>
     </option>
   </component>
@@ -160,10 +158,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="710" />
-    <option name="width" value="570" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,13 +169,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DataStructure (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DataStructure (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -185,6 +182,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,13 +217,13 @@
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
     </configuration>
     <configuration name="Recursion" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SelectionSort/bin/Debug/SelectionSort.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RevString/bin/Debug/RevString.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SelectionSort/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RevString/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InsertionSort/InsertionSort.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RevString/RevString.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -276,12 +274,14 @@
       <workItem from="1550302852078" duration="1592000" />
       <workItem from="1551277687526" duration="824000" />
       <workItem from="1551353153223" duration="751000" />
-      <workItem from="1551418314347" duration="814000" />
+      <workItem from="1551418314347" duration="1113000" />
+      <workItem from="1551962461393" duration="1618000" />
+      <workItem from="1551964126283" duration="1083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10849000" />
+    <option name="totallyTimeSpent" value="13849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,20 +293,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5627586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56120825" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.28551725" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32893288" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32750398" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -416,20 +417,174 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/InsertionSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1551419538471" expanded="false" signature="6:32" ph="..." />
+            <marker date="1551419538471" expanded="true" signature="86:671" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="139:647" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="285:518" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="391:468" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="554:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevString/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1551964882311" expanded="false" signature="6:32" ph="..." />
+            <marker date="1551964882311" expanded="true" signature="53:1462" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="82:1460" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="132:390" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="226:380" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="446:1454" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="610:761" ph="/* ReversetStr(str); ... */" />
+            <marker date="1551964882311" expanded="true" signature="1006:1307" ph="/* for (int i = 0; i &lt; str.Length; i++) ... */" />
+            <marker date="1551964882311" expanded="true" signature="1356:1431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1549958714110" expanded="true" signature="67:159" ph="{...}" />
+            <marker date="1549958714110" expanded="true" signature="120:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1550022623819" expanded="false" signature="12:66" ph="..." />
+            <marker date="1550022623819" expanded="true" signature="87:3119" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="116:3117" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="169:699" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="756:1042" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="819:872" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1084:1230" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1288:1488" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1489:1554" ph="/* 밑에와 똑같은 동작 ... */" />
+            <marker date="1550022623819" expanded="true" signature="1572:3110" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1633:1855" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1677:1742" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1917:2147" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1962:2028" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2049:2132" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2220:2560" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2264:2330" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2365:2431" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2452:2546" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2656:3100" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2700:2809" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2830:3086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
+            <marker date="1551278449043" expanded="true" signature="117:762" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="170:756" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="302:644" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertionSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1551419538471" expanded="false" signature="6:32" ph="..." />
+            <marker date="1551419538471" expanded="true" signature="86:671" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="139:647" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="285:518" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="391:468" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="554:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1549958714110" expanded="true" signature="67:159" ph="{...}" />
+            <marker date="1549958714110" expanded="true" signature="120:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <marker date="1550022623819" expanded="false" signature="12:66" ph="..." />
+            <marker date="1550022623819" expanded="true" signature="87:3119" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="116:3117" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="169:699" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="756:1042" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="819:872" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1084:1230" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1288:1488" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1489:1554" ph="/* 밑에와 똑같은 동작 ... */" />
+            <marker date="1550022623819" expanded="true" signature="1572:3110" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1633:1855" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1677:1742" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1917:2147" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="1962:2028" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2049:2132" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2220:2560" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2264:2330" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2365:2431" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2452:2546" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2656:3100" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2700:2809" ph="{...}" />
+            <marker date="1550022623819" expanded="true" signature="2830:3086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1551278449043" expanded="true" signature="0:52" ph="/* 인접한 값을 계속 바꾸면서 위치를 바꾸며 최대, 최소값을 구하는 정렬 방식 ... */" />
+            <marker date="1551278449043" expanded="true" signature="117:762" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="170:756" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="302:644" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="390:630" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="449:612" ph="{...}" />
+            <marker date="1551278449043" expanded="true" signature="680:746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SelectionSort/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <marker date="1551418818596" expanded="false" signature="6:51" ph="..." />
-            <marker date="1551418818596" expanded="true" signature="76:792" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="105:790" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="158:784" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="305:670" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="401:557" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="462:539" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="706:772" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,31 +931,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <marker date="1551418818596" expanded="false" signature="6:51" ph="..." />
-            <marker date="1551418818596" expanded="true" signature="76:792" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="105:790" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="158:784" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="305:670" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="401:557" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="462:539" ph="{...}" />
-            <marker date="1551418818596" expanded="true" signature="706:772" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InsertionSort/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <marker date="1551419438075" expanded="true" signature="6:32" ph="..." />
-            <marker date="1551419438075" expanded="true" signature="57:665" ph="{...}" />
-            <marker date="1551419438075" expanded="true" signature="86:663" ph="{...}" />
-            <marker date="1551419438075" expanded="true" signature="139:639" ph="{...}" />
-            <marker date="1551419438075" expanded="true" signature="285:510" ph="{...}" />
-            <marker date="1551419438075" expanded="true" signature="383:460" ph="{...}" />
-            <marker date="1551419438075" expanded="true" signature="546:629" ph="{...}" />
+            <marker date="1551419538471" expanded="false" signature="6:32" ph="..." />
+            <marker date="1551419538471" expanded="true" signature="86:671" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="139:647" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="285:518" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="391:468" ph="{...}" />
+            <marker date="1551419538471" expanded="true" signature="554:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RevString/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <marker date="1551964882311" expanded="false" signature="6:32" ph="..." />
+            <marker date="1551964882311" expanded="true" signature="53:1462" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="82:1460" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="132:390" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="226:380" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="446:1454" ph="{...}" />
+            <marker date="1551964882311" expanded="true" signature="610:761" ph="/* ReversetStr(str); ... */" />
+            <marker date="1551964882311" expanded="true" signature="1006:1307" ph="/* for (int i = 0; i &lt; str.Length; i++) ... */" />
+            <marker date="1551964882311" expanded="true" signature="1356:1431" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{8928700B-721E-4216-977B-E18F9220E08B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevString", "RevString\RevString.csproj", "{95953217-D2C1-4EB0-9626-C8D1B784E4D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8928700B-721E-4216-977B-E18F9220E08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8928700B-721E-4216-977B-E18F9220E08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8928700B-721E-4216-977B-E18F9220E08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95953217-D2C1-4EB0-9626-C8D1B784E4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95953217-D2C1-4EB0-9626-C8D1B784E4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95953217-D2C1-4EB0-9626-C8D1B784E4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95953217-D2C1-4EB0-9626-C8D1B784E4D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
