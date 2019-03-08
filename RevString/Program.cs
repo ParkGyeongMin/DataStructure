@@ -21,14 +21,20 @@ namespace RevString
 
             Console.Write("원하는 문자열을 입력하세요.");
             string input = Console.ReadLine();
-            char[] str = input.ToCharArray();
+            char[] str = input.ToCharArray(), str2;
             
             ReversetStr(str);
+            
             
             foreach (var s in str)
             {
                 Console.Write(s);
             }
+
+
+            // 연속된 문자열 제거 추가 중.... ( 계속 안되서 고민 ) 
+            // ex ) aaaassssddddeeeeffffdddssssaaaa = asdefdsa 
+            
 
         }
     }
